@@ -1,4 +1,4 @@
-const targetDate = new Date("Jan 22, 2023 00:00:00");
+const targetDate = new Date("Jan 1, 2024 00:00:00");
 const background = document.getElementById('background')
 const countdown = document.getElementById('countdown')
 targetDate.setHours(targetDate.getHours());
